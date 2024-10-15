@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Mine portofolio is available at [https://35229.hosts2.ma-cloud.nl/JayJairam/](https://35229.hosts2.ma-cloud.nl/JayJairam/)
+- 👨‍💻 Mine portofolio is available at jayjairam.nl
 
 - 📫 How to reach me **Jmojairam@gmail.com**
 
