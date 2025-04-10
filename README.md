@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Jairam</h1>
 <h3 align="center">A passionate frontend developer from Amsterdam</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **UR mom**
 
 - 👨‍💻 Mine portofolio is available at jayjairam.nl
 
